@@ -2,6 +2,8 @@
 
 This repository aims at being a tutorial on [Docbook](http://docbook.sourceforge.net/) to [PDF](https://acrobat.adobe.com/au/en/products/about-adobe-pdf.html) publishing if I ever get time...
 
+Here is a list of [companies using Docbook](http://wiki.docbook.org/WhoUsesDocBook). 
+
 I think if you don't have much experience with computers then a few short courses listed below might help:
 
 - https://www.codecademy.com/learn/learn-java
