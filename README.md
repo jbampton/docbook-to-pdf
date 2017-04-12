@@ -2,7 +2,7 @@
 
 This repository aims at being a tutorial on [Docbook](http://docbook.sourceforge.net/) to [PDF](https://acrobat.adobe.com/au/en/products/about-adobe-pdf.html) publishing if I ever get time...
 
-Here is a list of [companies using Docbook](http://wiki.docbook.org/WhoUsesDocBook). 
+Here is a list of [companies using Docbook](https://github.com/docbook/wiki/wiki/WhoUsesDocBook). 
 
 I think if you don't have much experience with computers then a few short courses listed below might help:
 
@@ -13,7 +13,7 @@ I think if you don't have much experience with computers then a few short course
 
 And then come train in the [REAL DOJO](http://www.codewars.com) and reach your highest potential, become faster, stronger and more powerful......JEDI MASTER LEVEL.....!??!?!!  
 
-#List of resources
+## List of resources
 
 http://sourceforge.net/projects/docbook/files/docbook-xsl/
 
