@@ -1,8 +1,8 @@
-# Docbook To PDF 
+# Docbook To PDF
 
 This repository aims at being a tutorial on [Docbook](http://docbook.sourceforge.net/) to [PDF](https://acrobat.adobe.com/au/en/products/about-adobe-pdf.html) publishing if I ever get time...
 
-Here is a list of [companies using Docbook](https://github.com/docbook/wiki/wiki/WhoUsesDocBook). 
+Here is a list of [companies using Docbook](https://github.com/docbook/wiki/wiki/WhoUsesDocBook).
 
 I think if you don't have much experience with computers then a few short courses listed below might help:
 
@@ -29,7 +29,7 @@ Chapter 9. Customization methods - http://www.sagehill.net/docbookxsl/CustomMeth
 
 W3C - The Extensible Stylesheet Language Family (XSL) - http://www.w3.org/Style/XSL/
 
-W3C XSLT 2.0 - http://www.w3.org/TR/xslt20/ 
+W3C XSLT 2.0 - http://www.w3.org/TR/xslt20/
 
 XSL Formatting Objects - https://en.wikipedia.org/wiki/XSL_Formatting_Objects
 
@@ -37,7 +37,7 @@ XSL-FO Processors - http://www.w3.org/community/ppl/wiki/XSL-FO_Processors
 
 XML - https://en.wikipedia.org/wiki/XML
 
-Adobe PDF - https://en.wikipedia.org/wiki/Portable_Document_Forma
+Adobe PDF - https://en.wikipedia.org/wiki/Portable_Document_Format
 
 IDE - Integrated Development Environment - https://en.wikipedia.org/wiki/Integrated_development_environment
 
@@ -50,5 +50,3 @@ Got 15 minutes and want to learn Git? - https://try.github.io/levels/1/challenge
 Ruby regular expression editor - http://rubular.com/
 
 Essential programmer training - http://www.codewars.com/
-
-
